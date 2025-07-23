@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Prot7 Admin Control Panel - Enhanced Edition
-# Created: 2025-07-23 16:47:00
 # Author: T9Tuco
 
 import sqlite3
