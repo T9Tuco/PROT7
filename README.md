@@ -423,13 +423,12 @@ Available tools:
 ## Support & Contributing
 
 ### Getting Help
-- Check the [documentation](#documentation) first
-- [Report bugs](https://github.com/yourusername/prot7/issues) on GitHub
-- Join our [Discord community](https://discord.gg/your-invite) for support
+- Check the [documentation](#docs.prot7.bot) first
+- [Report bugs](https://github.com/t9tuco/prot7/issues) on GitHub
 - Contact: support@prot7.bot
 
 ### Contributing
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 1. Fork the repository
 2. Create a feature branch
